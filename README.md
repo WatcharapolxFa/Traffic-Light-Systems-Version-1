@@ -33,6 +33,6 @@
 
 ## ♠ Traffic light systems  >> Please click on the picture. <<
 
-[![alt text](https://github.com/WatcharapolxFa/GAME_SFML/blob/master/GAME_SFML/charecter/End.png?raw=true)](https://www.youtube.com/watch?v=O3SGqPtVVU8)
+[![alt text](https://github.com/WatcharapolxFa/GAME_SFML/blob/master/GAME_SFML/charecter/itc.png?raw=true)](https://www.youtube.com/watch?v=O3SGqPtVVU8)
 
 <br> 
